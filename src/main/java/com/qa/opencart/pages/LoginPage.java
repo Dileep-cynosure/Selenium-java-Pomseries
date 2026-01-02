@@ -58,5 +58,7 @@ public class LoginPage {
 		eleUtil.doClick(registrationLnk, TimeUtil.DEFAULT_TIME);
 		return new RegistrationPage(driver);
 	}
+	
+	
 
 }
